@@ -4,60 +4,39 @@
 title: EVGENFM2026
 description: The Official Site for the Second Workshop on the Evaluation of Generative Foundation Models
 keywords: Generative Foundation Models, Evaluation, CVPRW, CVPR 2026
-baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+baseurl: ""
 url: https://evgenfm2026.github.io/
-# url: http://127.0.0.1:4000
-img_path: /evgenfm/CVPRW2026/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path: /static/assets/img/blog
 
 # author -- index page "about me" section
-author:  # change following line to your infomation.
-  name: EVGENFM2026  # Be used at blog posts' author.
-  first_name:   # Be used at index page about me section.
-  last_name: EVGENFM2026  # Be used at index page about me section.
-  #avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  #github_username: jarrekk  # Leave blank if you don't have now
-  #linkedin_id: jarrekk # Leave blank if you don't have now
-  #facebook_username: jiakunnj  # Leave blank if you don't have now
-  #twitter_username: jiakun614  # Leave blank if you don't have now
-  email: zontakm@amazon.com  # Leave blank if you don't have now
-  #cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
-  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
-  desc: 
+author:
+  name: EVGENFM2026
+  first_name: ""
+  last_name: EVGENFM2026
+  email: zontakm@amazon.com
+  desc: |
     <p>
     <span style="color:red"> Workshop Date, June 6-12, 2026 (Exact day TBD) <br><br>
-
     Workshop Location, Colorado Convention Center, Denver, CO (Room TBD) <br><br> </span>
-    
     As Generative Foundation Models (GenFMs) continue to reshape the AI landscape, the need for robust evaluation methodologies has never been more critical. Since our inaugural workshop at CVPR 2024, we have witnessed an explosion in GenFM capabilities—from increasingly sophisticated Large Language Models (LLMs) to revolutionary video generation systems, 3D content creation, and multimodal agents that seamlessly integrate vision, language, and action. These advances bring both tremendous promise and unprecedented challenges in ensuring reliability, safety, and alignment with human values. <br><br>
-
-    The 2nd Workshop on Evaluation for Generative Foundation Models at CVPR 2026 builds on the momentum of our successful first edition to address the evolving evaluation landscape. As GenFMs become more capable and widely deployed, we face new frontiers in assessment: evaluating long-form video generation, measuring 3D consistency, benchmarking agentic behaviors, and developing metrics that capture nuanced aspects of creativity, factuality, and safety. This workshop brings together researchers from academia and industry to share cutting-edge evaluation methodologies, discuss emerging challenges, and chart a path toward more comprehensive and reliable assessment frameworks for the next generation of foundation models. <br><br></p>
-
-
-
+    The 2nd Workshop on Evaluation for Generative Foundation Models at CVPR 2026 builds on the momentum of our successful first edition to address the evolving evaluation landscape. As GenFMs become more capable and widely deployed, we face new frontiers in assessment: evaluating long-form video generation, measuring 3D consistency, benchmarking agentic behaviors, and developing metrics that capture nuanced aspects of creativity, factuality, and safety. This workshop brings together researchers from academia and industry to share cutting-edge evaluation methodologies, discuss emerging challenges, and chart a path toward more comprehensive and reliable assessment frameworks for the next generation of foundation models. <br><br>
+    </p>
 
 # comment
-  disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+disqus:
   name: EVGENFM2026
 
 # analytics
-## google analytics
-ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  # id:
-
-## google optimize
+ga:
 go:
-  # id:
+gio:
 
-## growingIO
-gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
-  # id:
+# donation
+donation: off
 
-## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
-
-## carousels
-index_carousel: on  # index page carousel switch
-blog_carousel: on  # blog page carousel switch
+# carousels
+index_carousel: on
+blog_carousel: on
 
 # scss
 sass:
