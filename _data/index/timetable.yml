@@ -1,0 +1,118 @@
+# schedules section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Gathering + Poster Setup 
+  desc:
+    detail: 
+    host: 
+  date:
+    detail: June 2026, Time TBD (MDT)
+  icon: fa-microphone 
+
+- name:
+    detail: Opening Remarks 
+  desc:
+    detail: 
+    host: 
+  date:
+    detail: June 2026, Time TBD (MDT)
+  icon: fa-microphone 
+
+- name:
+    detail: Keynote 1 (Speaker TBD)
+  desc:
+    detail: Talk Title TBD
+    host: 
+  date:
+    detail: June 2026, Time TBD (MDT)
+  icon: fa-microphone 
+
+- name:
+    detail: Keynote 2 (Speaker TBD)
+  desc:
+    detail: Talk Title TBD
+    host: 
+  date:
+    detail: June 2026, Time TBD (MDT)
+  icon: fa-microphone 
+
+- name:
+    detail: Keynote 3 (Speaker TBD)
+  desc:
+    detail: Talk Title TBD
+    host: 
+  date:
+    detail: June 2026, Time TBD (MDT)
+  icon: fa-microphone 
+
+- name:
+    detail: Spotlight Presentations
+  desc:
+    detail: 
+    host: 
+  date:
+    detail: June 2026, Time TBD (MDT)
+  icon: fa-microphone 
+
+- name:
+    detail: Poster Session + Coffee Break
+  desc:
+    detail: 
+    host: 
+  date:
+    detail: June 2026, Time TBD (MDT)
+  icon: fa-coffee
+
+- name:
+    detail: Keynote 4 (Speaker TBD)
+  desc:
+    detail: Talk Title TBD
+    host: 
+  date:
+    detail: June 2026, Time TBD (MDT)
+  icon: fa-microphone 
+
+- name:
+    detail: Oral Presentations
+  desc:
+    detail: Selected Papers TBD
+    host: 
+  date:
+    detail: June 2026, Time TBD (MDT)
+  icon: fa-microphone 
+
+- name:
+    detail: Panel Discussion
+  desc:
+    detail: 
+    host: 
+  date:
+    detail: June 2026, Time TBD (MDT)
+  icon: fa-comments-o 
+
+- name:
+    detail: Keynote 5 (Speaker TBD)
+  desc:
+    detail: Talk Title TBD
+    host: 
+  date:
+    detail: June 2026, Time TBD (MDT)
+  icon: fa-microphone 
+
+- name:
+    detail: Keynote 6 (Speaker TBD)
+  desc:
+    detail: Talk Title TBD
+    host: 
+  date:
+    detail: June 2026, Time TBD (MDT)
+  icon: fa-microphone 
+
+- name:
+    detail: Closing Remarks
+  desc:
+    detail: 
+    host: 
+  date:
+    detail: June 2026, Time TBD (MDT)
+  icon: fa-microphone 

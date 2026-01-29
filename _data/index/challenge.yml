@@ -1,0 +1,41 @@
+# Topics/Call for Papers section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: Video Generation Evaluation
+  i18n: VideoGen
+  desc: Metrics and benchmarks for assessing temporal consistency, motion quality, and semantic alignment in video generation models.
+  author: 
+
+- name: 3D Content Generation
+  i18n: 3DGen
+  desc: Evaluation methodologies for 3D asset generation, including geometric consistency, texture quality, and multi-view coherence.
+  author: 
+
+- name: Multimodal Agent Evaluation
+  i18n: AgentEval
+  desc: Frameworks for assessing agentic behaviors, tool use, planning capabilities, and real-world task completion in multimodal systems.
+  author: 
+
+- name: Safety and Alignment
+  i18n: Safety
+  desc: Methods for evaluating harmful content generation, bias detection, and alignment with human values across modalities.
+  author: 
+
+- name: Factuality and Hallucination
+  i18n: Factuality
+  desc: Techniques for measuring factual accuracy, detecting hallucinations, and ensuring grounded generation in vision-language models.
+  author: 
+
+- name: Efficiency and Scalability
+  i18n: Efficiency
+  desc: Evaluation approaches that balance model performance with computational efficiency and scalability considerations.
+  author: 
+
+- name: Human Evaluation Methods
+  i18n: HumanEval
+  desc: Best practices for human evaluation studies, including annotation protocols, inter-rater reliability, and crowdsourcing strategies.
+  author: 
+
+- name: Benchmark Design
+  i18n: Benchmark
+  desc: Principles and methodologies for creating robust, comprehensive, and future-proof evaluation benchmarks for GenFMs.
+  author: 

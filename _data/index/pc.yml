@@ -1,0 +1,35 @@
+# Program Committee section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+#
+
+- name: PC Member 1 (TBD)
+  i18n: PC1
+  desc: Affiliation TBD
+
+- name: PC Member 2 (TBD)
+  i18n: PC2
+  desc: Affiliation TBD
+
+- name: PC Member 3 (TBD)
+  i18n: PC3
+  desc: Affiliation TBD
+
+- name: PC Member 4 (TBD)
+  i18n: PC4
+  desc: Affiliation TBD
+
+- name: PC Member 5 (TBD)
+  i18n: PC5
+  desc: Affiliation TBD
+
+- name: PC Member 6 (TBD)
+  i18n: PC6
+  desc: Affiliation TBD
+
+- name: PC Member 7 (TBD)
+  i18n: PC7
+  desc: Affiliation TBD
+
+- name: PC Member 8 (TBD)
+  i18n: PC8
+  desc: Affiliation TBD

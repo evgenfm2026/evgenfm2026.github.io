@@ -1,0 +1,34 @@
+# speaker section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+#
+
+- name: Speaker 1 (TBD)
+  i18n: Speaker1
+  img: /static/assets/img/landing/avatar.jpg
+  desc: Affiliation TBD
+
+- name: Speaker 2 (TBD)
+  i18n: Speaker2
+  img: /static/assets/img/landing/avatar.jpg
+  desc: Affiliation TBD
+
+- name: Speaker 3 (TBD)
+  i18n: Speaker3
+  img: /static/assets/img/landing/avatar.jpg
+  desc: Affiliation TBD
+
+- name: Speaker 4 (TBD)
+  i18n: Speaker4
+  img: /static/assets/img/landing/avatar.jpg
+  desc: Affiliation TBD
+
+- name: Speaker 5 (TBD)
+  i18n: Speaker5
+  img: /static/assets/img/landing/avatar.jpg
+  desc: Affiliation TBD
+
+- name: Speaker 6 (TBD)
+  i18n: Speaker6
+  img: /static/assets/img/landing/avatar.jpg
+  desc: Affiliation TBD
