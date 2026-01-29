@@ -36,7 +36,7 @@ donation: off
 
 # carousels
 index_carousel: on
-blog_carousel: on
+blog_carousel: off
 
 # scss
 sass:
