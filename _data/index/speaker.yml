@@ -1,34 +1,57 @@
 # speaker section data
-# If you don't have language feature(language.yml is empty), ignore "i18n" items
-# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-#
 
-- name: Speaker 1 (TBD)
-  i18n: Speaker1
-  img: /static/assets/img/landing/avatar.jpg
-  desc: Affiliation TBD
+- name: Ranjay Krishna
+  i18n: RanjayKrishna
+  img: /static/assets/img/landing/Ranjay_Krishna.png
+  desc: Assistant Professor, University of Washington
+  title: ""
+  abstract: ""
+  url: 
 
-- name: Speaker 2 (TBD)
-  i18n: Speaker2
-  img: /static/assets/img/landing/avatar.jpg
-  desc: Affiliation TBD
+- name: Adriana Romero Soriano
+  i18n: AdrianaRomero
+  img: /static/assets/img/landing/AdrianaRomeroBW.webp
+  desc: Meta FAIR
+  title: ""
+  abstract: ""
+  url: 
 
-- name: Speaker 3 (TBD)
-  i18n: Speaker3
-  img: /static/assets/img/landing/avatar.jpg
-  desc: Affiliation TBD
+- name: Felix Friedrich
+  i18n: FelixFriedrich
+  img: /static/assets/img/landing/felix_friedrich.jpg
+  desc: Meta FAIR
+  title: ""
+  abstract: ""
+  url: 
 
-- name: Speaker 4 (TBD)
-  i18n: Speaker4
-  img: /static/assets/img/landing/avatar.jpg
-  desc: Affiliation TBD
+- name: Weiwan Liu
+  i18n: WeiwanLiu
+  img: /static/assets/img/landing/wei_liu.png
+  desc: Meta GenAI
+  title: ""
+  abstract: ""
+  url: 
 
-- name: Speaker 5 (TBD)
-  i18n: Speaker5
-  img: /static/assets/img/landing/avatar.jpg
-  desc: Affiliation TBD
+- name: Yi Wei
+  i18n: YiWei
+  img: /static/assets/img/landing/yi_wei.jpeg
+  desc: Samsung Labs
+  title: ""
+  abstract: ""
+  url: 
 
-- name: Speaker 6 (TBD)
-  i18n: Speaker6
-  img: /static/assets/img/landing/avatar.jpg
-  desc: Affiliation TBD
+- name: Koustuv Sinha
+  i18n: KoustuvSinha
+  img: /static/assets/img/landing/koustuv.jpeg
+  desc: Meta FAIR
+  title: ""
+  abstract: ""
+  url: 
+
+- name: Mike Z. Shou
+  i18n: MikeShou
+  img: /static/assets/img/landing/mike_shou.jpeg
+  desc: Assistant Professor, National University of Singapore
+  title: ""
+  abstract: ""
+  url: 

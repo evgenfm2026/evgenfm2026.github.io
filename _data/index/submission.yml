@@ -1,27 +1,17 @@
-# schedules section data
-# if you don't have language feature(language.yml is empty), ignore "i18n" items
+# Submission timeline data
+
 - name:
-    detail: CMT Site Open 
+    detail: Paper Submission Deadline
   date:
-    detail: Feb 9, 23:59 PT 
+    detail: March 25, 2026, 23:59 PT
   desc:
-    video: https://cmt3.research.microsoft.com/EvGenFMCVPR2024
-  icon: fa-calendar 
+    detail: 
+  icon: fa-calendar
 
 - name:
-    detail: Submission Deadline 
+    detail: Notification to Authors
   date:
-    detail: Apr 4, 23:59 PST 
-  icon: fa-calendar 
-
-- name:
-    detail: Final Decisions  
-  date:
-    detail: Apr 11, 23:59 PST 
-  icon: fa-calendar  
-
-- name:
-    detail: Camera Ready Deadline  
-  date:
-    detail: Apr 14, 23:59 PST
-  icon: fa-calendar 
+    detail: April 10, 2026, 23:59 PT
+  desc:
+    detail: 
+  icon: fa-calendar

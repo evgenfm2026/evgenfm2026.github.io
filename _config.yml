@@ -16,10 +16,11 @@ author:
   email: zontakm@amazon.com
   desc: |
     <p>
-    <span style="color:red"> Workshop Date, June 6-12, 2026 (Exact day TBD) <br><br>
+    <span style="color:red"> Workshop Date: June 3-4, 2026 <br><br>
     Workshop Location, Colorado Convention Center, Denver, CO (Room TBD) <br><br> </span>
-    As Generative Foundation Models (GenFMs) continue to reshape the AI landscape, the need for robust evaluation methodologies has never been more critical. Since our inaugural workshop at CVPR 2024, we have witnessed an explosion in GenFM capabilities—from increasingly sophisticated Large Language Models (LLMs) to revolutionary video generation systems, 3D content creation, and multimodal agents that seamlessly integrate vision, language, and action. These advances bring both tremendous promise and unprecedented challenges in ensuring reliability, safety, and alignment with human values. <br><br>
-    The 2nd Workshop on Evaluation for Generative Foundation Models at CVPR 2026 builds on the momentum of our successful first edition to address the evolving evaluation landscape. As GenFMs become more capable and widely deployed, we face new frontiers in assessment: evaluating long-form video generation, measuring 3D consistency, benchmarking agentic behaviors, and developing metrics that capture nuanced aspects of creativity, factuality, and safety. This workshop brings together researchers from academia and industry to share cutting-edge evaluation methodologies, discuss emerging challenges, and chart a path toward more comprehensive and reliable assessment frameworks for the next generation of foundation models. <br><br>
+    Since our inaugural workshop at CVPR 2024, generative foundation models have advanced at a striking pace: photorealistic image synthesis with FLUX and Imagen 3, long-form video generation via Sora and Runway Gen-3, multimodal reasoning in GPT-4o and Gemini, and production-ready 3D content creation. Meanwhile, reinforcement learning based post-training (RLHF, GRPO, DPO) has become standard for aligning these models, introducing new evaluation challenges around reward hacking, distributional shift, and alignment verification. <br><br>
+    Yet evaluation has struggled to keep pace. Automatic metrics often miss nuanced human preferences, benchmarks saturate faster than they can be replaced, and instruction-following, long-context reasoning, and cross-modal generation demand fundamentally new assessment paradigms. <br><br>
+    The 2nd Workshop on Evaluation for Generative Foundation Models at CVPR 2026 brings together researchers from academia and industry to share best practices, discuss ongoing efforts, and work toward more reliable, scalable evaluation protocols, spanning metrics, benchmarks, reward models, and human-in-the-loop methods, to ensure the safe and aligned deployment of next-generation foundation models. <br><br>
     </p>
 
 # comment

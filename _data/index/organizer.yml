@@ -1,30 +1,42 @@
 # organizers section data
-- last_name: Organizer 1 (TBD)
-  first_name: 
-  desc: Affiliation TBD (Primary Contact)
-  website: #
-  email: placeholder@example.com
+- last_name: Ikezogwo
+  first_name: Wisdom Oluchi
+  desc: University of Washington (Primary Contact)
+  website: https://wisdomikezogwo.github.io/
+  email: wisdomik@cs.washington.edu
 
-- last_name: Organizer 2 (TBD)
-  first_name: 
-  desc: Affiliation TBD
-  website: #
-  email: placeholder@example.com
+- last_name: Seyfioglu
+  first_name: Mehmet Saygin
+  desc: Amazon
+  website: https://mehmetsayginseyfioglu.github.io/
+  email: msaygin@cs.washington.edu
 
-- last_name: Organizer 3 (TBD)
-  first_name: 
-  desc: Affiliation TBD
-  website: #
-  email: placeholder@example.com
+- last_name: Zhang
+  first_name: Xu
+  desc: Amazon AGI
+  website: https://xu-zhang-1987.github.io/
+  email: xzhnamz@amazon.com
 
-- last_name: Organizer 4 (TBD)
-  first_name: 
-  desc: Affiliation TBD
-  website: #
-  email: placeholder@example.com
+- last_name: Bouyarmane
+  first_name: Karim
+  desc: Amazon
+  website: https://linkedin.com/in/karim-bouyarmane/
+  email: bouykari@amazon.com
 
-- last_name: Organizer 5 (TBD)
-  first_name: 
-  desc: Affiliation TBD
-  website: #
-  email: placeholder@example.com
+- last_name: Kumar
+  first_name: Suren
+  desc: Amazon
+  website: https://www.linkedin.com/in/suren-kumar-b845286/
+  email: ssurkum@amazon.com
+
+- last_name: Zontak
+  first_name: Maria
+  desc: Meta
+  website: https://www.linkedin.com/in/maria-zontak-0272135/
+  email: 
+
+- last_name: Wu
+  first_name: Wenyi
+  desc: Meta
+  website: https://www.linkedin.com/in/wenyi-wu-aa563a77
+  email: 

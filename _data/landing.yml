@@ -18,11 +18,11 @@
   tpl: speaker.html
   css: speaker
 
-- id: Topics 
-  i18n: nav.challenge
-  name: topics
-  tpl: challenge.html
-  css: challenge
+- id: Submission
+  i18n: nav.submission
+  name: submissions
+  tpl: submission.html
+  css: timetable
 
 - id: PC
   i18n: nav.pc
