@@ -3,7 +3,7 @@
 - name:
     detail: Paper Submission Deadline
   date:
-    detail: March 25, 2026, 23:59 PT
+    detail: March 15, 2026, 23:59 PT
   desc:
     detail: 
   icon: fa-calendar
@@ -11,7 +11,7 @@
 - name:
     detail: Notification to Authors
   date:
-    detail: April 6, 2026, 23:59 PT
+    detail: March 20, 2026, 23:59 PT
   desc:
     detail: 
   icon: fa-calendar
