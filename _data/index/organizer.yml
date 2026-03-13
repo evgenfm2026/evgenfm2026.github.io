@@ -1,15 +1,15 @@
 # organizers section data
-- last_name: Ikezogwo
-  first_name: Wisdom Oluchi
-  desc: University of Washington (Primary Contact)
-  website: https://wisdomikezogwo.github.io/
-  email: wisdomik@cs.washington.edu
-
 - last_name: Seyfioglu
   first_name: Mehmet Saygin
-  desc: Amazon
+  desc: Amazon (Primary Contact)
   website: https://mehmetsayginseyfioglu.github.io/
   email: msaygin@cs.washington.edu
+
+- last_name: Ikezogwo
+  first_name: Wisdom Oluchi
+  desc: University of Washington
+  website: https://wisdomikezogwo.github.io/
+  email: wisdomik@cs.washington.edu
 
 - last_name: Zhang
   first_name: Xu
