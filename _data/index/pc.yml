@@ -1,33 +1,81 @@
 # Program Committee section data
 
-- name: Tobi Rhode
+- name: Mingye Lu
   i18n: PC1
   desc: ""
 
-- name: Tristan McKinney
+- name: Hooman Vaseli
   i18n: PC2
   desc: ""
 
-- name: Lakshman Kolasani
+- name: Yi Wei
   i18n: PC3
   desc: ""
 
-- name: Pradeep Krishna Yarlagadda
+- name: Sagar Shrestha
   i18n: PC4
   desc: ""
 
-- name: Bardiya Akhbari
+- name: Rakesh Chada
   i18n: PC5
   desc: ""
 
-- name: Amir Tavanaei
+- name: Mark Hubenthal
   i18n: PC6
   desc: ""
 
-- name: Alex Williams
+- name: Wenliang Zhong
   i18n: PC7
   desc: ""
 
-- name: Thomas Zhang
+- name: Liwei Che
   i18n: PC8
+  desc: ""
+
+- name: Gitika Karumuri
+  i18n: PC9
+  desc: ""
+
+- name: Wenhao Wu
+  i18n: PC10
+  desc: ""
+
+- name: Deen Dayal Mohan
+  i18n: PC11
+  desc: ""
+
+- name: Nitesh Sekhar
+  i18n: PC12
+  desc: ""
+
+- name: Duanshun Li
+  i18n: PC13
+  desc: ""
+
+- name: Pradeep Yarlagadda
+  i18n: PC14
+  desc: ""
+
+- name: Phanideep Gampa
+  i18n: PC15
+  desc: ""
+
+- name: Wencong You
+  i18n: PC16
+  desc: ""
+
+- name: David Wu
+  i18n: PC17
+  desc: ""
+
+- name: Louise Xie
+  i18n: PC18
+  desc: ""
+
+- name: Ji Li
+  i18n: PC19
+  desc: ""
+
+- name: Xiang Fan
+  i18n: PC20
   desc: ""
