@@ -16,7 +16,7 @@ author:
   email: mseyfiog@amazon.com
   desc: |
     <p>
-    <span style="color:red"> Workshop Date: June 3-4, 2026 <br><br>
+    <span style="color:red"> Workshop Date: June 4, 2026 <br><br>
     Workshop Location, Colorado Convention Center, Denver, CO (Room TBD) <br><br> </span>
     Since our inaugural workshop at CVPR 2024, generative foundation models have advanced at a striking pace: photorealistic image synthesis with FLUX and Imagen 3, long-form video generation via Sora and Runway Gen-3, multimodal reasoning in GPT-4o and Gemini, and production-ready 3D content creation. Meanwhile, reinforcement learning based post-training (RLHF, GRPO, DPO) has become standard for aligning these models, introducing new evaluation challenges around reward hacking, distributional shift, and alignment verification. <br><br>
     Yet evaluation has struggled to keep pace. Automatic metrics often miss nuanced human preferences, benchmarks saturate faster than they can be replaced, and instruction-following, long-context reasoning, and cross-modal generation demand fundamentally new assessment paradigms. <br><br>
