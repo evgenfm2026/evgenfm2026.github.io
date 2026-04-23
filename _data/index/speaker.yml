@@ -24,18 +24,10 @@
   abstract: ""
   url: 
 
-- name: Weiwan Liu
-  i18n: WeiwanLiu
-  img: /static/assets/img/landing/wei_liu.png
-  desc: Meta GenAI
-  title: ""
-  abstract: ""
-  url: 
-
-- name: Yi Wei
-  i18n: YiWei
-  img: /static/assets/img/landing/yi_wei.jpeg
-  desc: Samsung Labs
+- name: Sherry X. Chen
+  i18n: SherryXChen
+  img: /static/assets/img/landing/sherry.jpeg
+  desc: Motional
   title: ""
   abstract: ""
   url: 
