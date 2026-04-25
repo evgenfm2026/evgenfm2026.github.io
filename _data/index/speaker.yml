@@ -40,10 +40,10 @@
   abstract: ""
   url: 
 
-- name: Mike Z. Shou
-  i18n: MikeShou
-  img: /static/assets/img/landing/mike_shou.jpeg
-  desc: Assistant Professor, National University of Singapore
+- name: Yuxiong Wang
+  i18n: YuxiongWang
+  img: /static/assets/img/landing/yuxiong.png
+  desc: UIUC
   title: ""
   abstract: ""
   url: 
